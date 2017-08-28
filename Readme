@@ -1,0 +1,28 @@
+Read me.
+(You can find helpful video here: https://youtu.be/p9ZngMW80-k)
+1. npm init
+ 	-heck for package.json
+
+2. download angular, angular-router, gulp,gulp-concat, browserSync.
+	-npm install --save angular
+	-npm install --save angular-route
+	-npm install --save gulp
+	-npm install --save gulp-concat
+	-npm install --save browser-sync
+
+3. create folder structure
+	-src/css (All .css files)
+	-src/js (All .js files)
+	-src/templates (All HTML VIEWS)
+
+4. create dist folder
+	-gulp will preprocess assets and place it in dist.
+
+5. create styles.json and scripts.json
+	-add paths to them in jsonArray.
+
+6.	Create a gulpfile.js
+	-review repo file to see what it has.
+	-add tasks
+
+
