@@ -5,7 +5,7 @@ Read me.
 
 2. download angular, angular-router, gulp,gulp-concat, browserSync.
 	-npm install --save angular
-	-npm install --save angular-route
+	-npm install --save angular-ui-router
 	-npm install --save gulp
 	-npm install --save gulp-concat
 	-npm install --save browser-sync
